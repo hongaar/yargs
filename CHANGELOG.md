@@ -2,6 +2,13 @@
 
 All notable changes to this project will be documented in this file. See [standard-version](https://github.com/conventional-changelog/standard-version) for commit guidelines.
 
+### [17.4.1](https://github.com/yargs/yargs/compare/v17.4.0...v17.4.1) (2022-03-19)
+
+
+### Bug Fixes
+
+* hide hidden options from completion ([#2143](https://github.com/yargs/yargs/issues/2143)) ([e086dfa](https://github.com/yargs/yargs/commit/e086dfad7ff11956b1e8779c00cf2351a4cc3b03)), closes [#2142](https://github.com/yargs/yargs/issues/2142)
+
 ## [17.4.0](https://github.com/yargs/yargs/compare/v17.3.1...v17.4.0) (2022-03-19)
 
 
